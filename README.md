@@ -85,10 +85,12 @@ git clone https://github.com/gdvl777/own_enumerable.git
 -   GitHub: [@gdvl777](https://github.com/gdvl777)
 -   X: [X](https://www.x.com/in/gdvl777_/)
 
-👤 **Cesar Herrera**
+👤 **Arthur Iturres**
 
--   GitHub: [@githubhandle](https://github.com/CesarHerr)
--   LinkedIn: [LinkedIn](https://www.linkedin.com/in/cesarHerr/)
+- GitHub: [@ITurres](https://github.com/ITurres)
+- LinkedIn: [Arthur Emanuel G. Iturres](https://www.linkedin.com/in/arturoemanuelguerraiturres/)
+- Angellist / Wellfound: [Arturo (Arthur) Emanuel Guerra Iturres](https://wellfound.com/u/arturo-arthur-emanuel-guerra-iturres)
+- Youtube: [Arturo Emanuel Guerra Iturres - Youtube Channel](https://www.youtube.com/channel/UC6GFUFHOtBS9mOuI8EJ6q4g)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
